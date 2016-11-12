@@ -1,4 +1,4 @@
-FROM rhel7/rhel
+FROM centos:7
 
 MAINTAINER Justin Cook <jhcook@gmail.com>
 
